@@ -1,0 +1,32 @@
+{
+  "name": "express-jwt-session2",
+  "version": "0.0.1",
+  "description": "express client side session middleware",
+  "author": "JiaYou, https://github.com/sinajia",
+  "contributors": [
+    "JiaYou"
+  ],
+  "main": "express-jwt-session.js",
+  "dependencies": {
+    "jsonwebtoken": "^9",
+    "lodash": "^4",
+    "crypto-js": "^4",
+    "lzjs": "^1"
+  },
+  "license": "996 License Version 1.0 (Draft)",
+  "keywords": [
+    "express",
+    "session",
+    "client side",
+    "memless session",
+    "css",
+    "secret session",
+    "jwt session",
+    "nodejs"
+  ],
+  "files": [
+    "README.md",
+    "LICENSE",
+    "express-jwt-session.js"
+  ]
+}
